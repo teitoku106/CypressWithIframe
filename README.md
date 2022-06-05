@@ -6,18 +6,6 @@ Author: Tam Pham (Kyle)
 
 
 ----------------------------------------------------------
-*WORK IN PROGRESS*
-
-Progress: 85%
-
-Problem: Cannot click checkbox [Term and conditions] inside an iframe, still debugging ("be.visible" return true but cannot click)
-
-If you have any solution / hint then please let me know, thank you!
-
-<img width="482" alt="Screen Shot 2022-06-05 at 2 19 34 PM" src="https://user-images.githubusercontent.com/73167411/172053972-3319a987-f37f-46d5-ae56-4050f9519ad1.png">
-
-
-----------------------------------------------------------
 
 Instruction:
 
@@ -29,8 +17,12 @@ Instruction:
 
 Folder structure 
 
-<img width="979" alt="image" src="https://user-images.githubusercontent.com/73167411/172054007-177ff5f7-dd22-459c-9d5b-9552ae3ca012.png">
+<img width="1250" alt="image" src="https://user-images.githubusercontent.com/73167411/172056212-ca6bb2dd-bc61-4186-932a-0428aa9e96e9.png">
 
 Functions
 
 <img width="1042" alt="image" src="https://user-images.githubusercontent.com/73167411/172040622-83c52886-52af-445b-9b9e-13c8720eaad6.png">
+
+Report
+
+<img width="1175" alt="Screen Shot 2022-06-05 at 9 43 12 PM" src="https://user-images.githubusercontent.com/73167411/172056225-b8b98d7b-c299-4f70-9da9-ad425cb4f066.png">
