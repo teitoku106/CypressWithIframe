@@ -8,11 +8,8 @@ describe("Create a new user through iframe on Website", () => {
   });
 
   it("createNewUser", async () => {
-    //input [Your name] - [Phone Number] - [Email address] - [Company name]
-    await commonFunction.createNewClient();
-    //input [Select type of Industry]
-    await commonFunction.selectIndustry("Health");
-    //Click checkbox for Terms And Conditions
-    await commonFunction.termsAndConditionsCheckBox();
+    await commonFunction.createNewClient(); //input [Your name] - [Phone Number] - [Email address] - [Company name]
+    await commonFunction.selectIndustry("Health");  //input [Select type of Industry]
+    await commonFunction.termsAndConditionsCheckBox(); //Click checkbox for Terms And Conditions
   });
 });
