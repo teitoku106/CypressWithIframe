@@ -25,6 +25,7 @@ Instruction:
 4. Open Terminal inside Visual Studio Code, Run command [ npx cypress run ] to start Cypress in Headless mode, let it run and finish by itself
 
 Folder structure 
+
 <img width="988" alt="image" src="https://user-images.githubusercontent.com/73167411/172040331-3a9598b6-876d-438a-b901-a87724dc7d98.png">
 
 Functions
