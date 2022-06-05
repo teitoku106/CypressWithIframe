@@ -26,3 +26,7 @@ Instruction:
 
 Folder structure 
 <img width="988" alt="image" src="https://user-images.githubusercontent.com/73167411/172040331-3a9598b6-876d-438a-b901-a87724dc7d98.png">
+
+Functions
+
+<img width="1042" alt="image" src="https://user-images.githubusercontent.com/73167411/172040622-83c52886-52af-445b-9b9e-13c8720eaad6.png">
