@@ -22,7 +22,7 @@ Folder structure
 
 Functions
 
-<img width="1153" alt="image" src="https://user-images.githubusercontent.com/73167411/172056486-79ecab03-27e1-4862-94c4-9426da9bbdc6.png">
+<img width="1153" alt="image" src="https://user-images.githubusercontent.com/73167411/172056494-64645b5a-ee8c-4395-85da-d79037dc1fad.png">
 
 Report
 
