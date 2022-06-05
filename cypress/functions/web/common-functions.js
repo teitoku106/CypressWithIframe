@@ -52,5 +52,5 @@ export async function termsAndConditionsCheckBox() {
     .iframe("#prospaFormFrame")
     .find(homePage.termAndConditionsCheckBox)
     .should("be.visible")
-    .click();
+    .click({ force: true });
 }

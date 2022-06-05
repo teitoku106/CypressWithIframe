@@ -9,6 +9,7 @@
       "html":true,
       "json":true,
       "reportDir":"cypress/reports"
-    }
+    },
+    "chromeWebSecurity": false
     
   }
