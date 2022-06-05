@@ -1,6 +1,6 @@
 /// <reference types="Cypress" />
 
-import * as commonFunction from "../../functions/client/common-functions";
+import * as commonFunction from "../../functions/web/common-functions";
 
 describe("example with Cypress", () => {
   beforeEach(async () => {
