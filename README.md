@@ -10,11 +10,11 @@ Author: Tam Pham (Kyle)
 
 85%
 
-Problem: Cannot click checkbox inside an iframe
+Problem: Cannot click checkbox [Term and conditions] inside an iframe ("be.visible" return true but cannot click)
 
 Need to update: Generate report in html 
 
-Welcome all feedback / hint
+Welcome all feedback / solutions!
 
 ----------------------------------------------------------
 
