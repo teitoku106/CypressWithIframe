@@ -25,6 +25,8 @@ Instruction:
 2. Open Terminal inside Visual Studio Code and run [ npm install ] to install required packages (Make sure your machine got node.js + npm, more information: https://docs.npmjs.com/downloading-and-installing-node-js-and-npm)
 4. Open Terminal inside Visual Studio Code, Run command [ npx cypress run --reporter mochawesome ] to start Cypress in Headless mode, let it run and finish by itself, you can also find a report inside the reports folder name as: mochawesome.html (open it using any prefer browser)
 
+----------------------------------------------------------
+
 Folder structure 
 
 <img width="979" alt="image" src="https://user-images.githubusercontent.com/73167411/172054007-177ff5f7-dd22-459c-9d5b-9552ae3ca012.png">
