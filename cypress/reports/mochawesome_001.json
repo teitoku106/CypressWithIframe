@@ -1,0 +1,106 @@
+{
+  "stats": {
+    "suites": 1,
+    "tests": 1,
+    "passes": 1,
+    "pending": 0,
+    "failures": 0,
+    "start": "2022-06-05T14:38:04.847Z",
+    "end": "2022-06-05T14:38:13.860Z",
+    "duration": 9013,
+    "testsRegistered": 1,
+    "passPercent": 100,
+    "pendingPercent": 0,
+    "other": 0,
+    "hasOther": false,
+    "skipped": 0,
+    "hasSkipped": false
+  },
+  "results": [
+    {
+      "uuid": "d9d79f37-013b-4724-9520-94f691e9c77d",
+      "title": "",
+      "fullFile": "cypress/integration/regressionTest/demo.spec.js",
+      "file": "cypress/integration/regressionTest/demo.spec.js",
+      "beforeHooks": [],
+      "afterHooks": [],
+      "tests": [],
+      "suites": [
+        {
+          "uuid": "3eae7af1-8c72-4d88-a6c3-f9e42b35584e",
+          "title": "example with Cypress",
+          "fullFile": "",
+          "file": "",
+          "beforeHooks": [],
+          "afterHooks": [],
+          "tests": [
+            {
+              "title": "createNewUser",
+              "fullTitle": "example with Cypress createNewUser",
+              "timedOut": null,
+              "duration": 5092,
+              "state": "passed",
+              "speed": "medium",
+              "pass": true,
+              "fail": false,
+              "pending": false,
+              "context": null,
+              "code": "//input [Your name] - [Phone Number] - [Email address] - [Company name]\nawait commonFunction.createNewClient(); //input [Select type of Industry]\nawait commonFunction.selectIndustry(\"Health\"); //Click checkbox for Terms And Conditions\nawait commonFunction.termsAndConditionsCheckBox();",
+              "err": {},
+              "uuid": "2f9e6c4a-ee9a-4f88-8942-90393a52df09",
+              "parentUUID": "3eae7af1-8c72-4d88-a6c3-f9e42b35584e",
+              "isHook": false,
+              "skipped": false
+            }
+          ],
+          "suites": [],
+          "passes": [
+            "2f9e6c4a-ee9a-4f88-8942-90393a52df09"
+          ],
+          "failures": [],
+          "pending": [],
+          "skipped": [],
+          "duration": 5092,
+          "root": false,
+          "rootEmpty": false,
+          "_timeout": 2000
+        }
+      ],
+      "passes": [],
+      "failures": [],
+      "pending": [],
+      "skipped": [],
+      "duration": 0,
+      "root": true,
+      "rootEmpty": true,
+      "_timeout": 2000
+    }
+  ],
+  "meta": {
+    "mocha": {
+      "version": "7.0.1"
+    },
+    "mochawesome": {
+      "options": {
+        "quiet": false,
+        "reportFilename": "mochawesome",
+        "saveHtml": true,
+        "saveJson": true,
+        "consoleReporter": "spec",
+        "useInlineDiffs": false,
+        "code": true
+      },
+      "version": "7.1.3"
+    },
+    "marge": {
+      "options": {
+        "charts": true,
+        "overwrite": false,
+        "html": true,
+        "json": true,
+        "reportDir": "cypress/reports"
+      },
+      "version": "6.2.0"
+    }
+  }
+}

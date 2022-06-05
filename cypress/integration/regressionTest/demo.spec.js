@@ -2,7 +2,7 @@
 
 import * as commonFunction from "../../functions/web/common-functions";
 
-describe("example with Cypress", () => {
+describe("Create a new user through iframe on Website", () => {
   beforeEach(async () => {
     await commonFunction.navigateTo(Cypress.env("HOME_URL"));
   });
