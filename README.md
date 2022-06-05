@@ -4,6 +4,8 @@ This repo contains UI Testing with iframe using Cypress in Javascript.
 
 Author: Tam Pham (Kyle)
 
+
+----------------------------------------------------------
 *STILL IN PROGRESS*
 
 85%
@@ -12,6 +14,7 @@ Problem: Cannot click checkbox inside an iframe
 
 Need to update: Generate report in html 
 
+----------------------------------------------------------
 
 Instruction:
 
