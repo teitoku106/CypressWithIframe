@@ -12,7 +12,7 @@ Progress: 85%
 
 Problem: Cannot click checkbox [Term and conditions] inside an iframe, still debugging ("be.visible" return true but cannot click)
 
-Welcome all the help I can get!
+If you have any solution / hint then please let me know, thank you!
 
 <img width="482" alt="Screen Shot 2022-06-05 at 2 19 34 PM" src="https://user-images.githubusercontent.com/73167411/172053972-3319a987-f37f-46d5-ae56-4050f9519ad1.png">
 
