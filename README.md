@@ -1,9 +1,10 @@
 # Cypress-With-Iframe
 
+----------------------------------------------------------
+
 This repo contains UI Testing with iframe using Cypress in Javascript.
 
 Author: Tam Pham (Kyle)
-
 
 ----------------------------------------------------------
 
@@ -21,7 +22,7 @@ Folder structure
 
 Functions
 
-<img width="1042" alt="image" src="https://user-images.githubusercontent.com/73167411/172040622-83c52886-52af-445b-9b9e-13c8720eaad6.png">
+<img width="1153" alt="image" src="https://user-images.githubusercontent.com/73167411/172056486-79ecab03-27e1-4862-94c4-9426da9bbdc6.png">
 
 Report
 
