@@ -1,0 +1,6 @@
+{
+    "testFiles": "**/*.spec.js",
+    "env": {
+      "HOME_URL": "https://www.prospa.com/"
+    }
+  }
