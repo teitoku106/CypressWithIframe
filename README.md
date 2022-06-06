@@ -1,6 +1,5 @@
 # Cypress-With-Iframe
 
-----------------------------------------------------------
 
 This repo contains UI Testing with iframe using Cypress in Javascript.
 
