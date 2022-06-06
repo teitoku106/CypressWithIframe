@@ -8,6 +8,9 @@ Author: Tam Pham (Kyle)
 
 ----------------------------------------------------------
 
+Testcafe Version: https://github.com/teitoku106/TestcafeWithIframe
+
+----------------------------------------------------------
 Instruction:
 
 1. Clone this Repo and open using Visual Studio Code
